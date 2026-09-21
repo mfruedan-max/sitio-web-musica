@@ -91,3 +91,6 @@ article:nth-child(even) {
 footer {
     background-color: #6a1b9a;
     color: white;
+    text-align:center;
+    padding:20px
+}
